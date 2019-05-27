@@ -1,0 +1,23 @@
+ALL=`{ls *.t}
+ALLP=`{ls *.bit}
+
+all:V: ${ALLP:%.bit=%.ps} ${ALL:%.t=%.pdf}
+
+%.ms:D:	%.t
+	cat msglobal $prereq | pic | tbl | eqn | 
+		troff -mpictures > $target
+
+%.ps:D: %.bit
+	lp -dstdout < $prereq > $target
+
+%.ps:D: %.ms
+	lp -dstdout < $prereq > $target
+
+%.pdf:D: %.ps
+	ps2pdf < $prereq > $target
+
+%.gif:D:
+	togif -d 750 $stem[0-9a-z]*.bit > $target
+
+clean:
+	rm -f *.pdf *.ps *.gif *.ms

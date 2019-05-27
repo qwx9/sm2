@@ -1,0 +1,20 @@
+.\" become magic dolphins
+.de BG
+.sp 0
+.po 0
+.vs 0
+\\X'PS 0 setgray clippath fill'
+\\X'PS 0.7 setgray'
+.po 1m
+.sp 1m
+.vs 1m
+..
+.de Bp
+.bp 0
+.BG
+..
+.BG
+.fp 1 R LucidaSans
+.fp 2 I LucidaSansI
+.fp 3 B LucidaSansB
+.fp 5 CW LucidaCW

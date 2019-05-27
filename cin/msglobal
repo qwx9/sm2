@@ -1,0 +1,42 @@
+.\" what the actual fuck
+.de BG
+.sp 0
+.po 0
+.vs 0
+\\X'PS 0 setgray clippath fill'\\X'PS 0.7 setgray'
+.po 1m
+.sp 1m
+.vs 1m
+..
+.de Bp
+.bp 0
+.BG
+..
+.de IM
+.PI \\$1.ps 256u,256u,-128u,\\n(zz
+.nr zz +256u
+..
+.de Id
+.ps 36
+.ie '\\$2'1' \\X'PS 0.7 0 0 setrgbcolor'\\$1\\X'PS 0.7 setgray'
+.el .ie '\\$2'2' \\X'PS 0 0.7 0 setrgbcolor'\\$1\\X'PS 0.7 setgray'
+.el .ie '\\$2'3' \\X'PS 0 0 0.7 setrgbcolor'\\$1\\X'PS 0.7 setgray'
+.el .ie '\\$2'4' \\X'PS 0.7 0.7 0 setrgbcolor'\\$1\\X'PS 0.7 setgray'
+.el \\$1
+.ps 16
+..
+.de ID
+.Id \\$1 5
+.Bp
+.Id \\$1 \\$3
+\\$2
+.Bp
+.Id \\$1 \\$3
+\\$2
+.br
+..
+.nr zz 0
+.ll 40m
+.ft UN
+.ps 16
+.BG
