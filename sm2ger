@@ -1,0 +1,7 @@
+#!/bin/rc -e
+shl <db | sed 10q >>db0
+grep -v `"{awk '{print $5}' db0 | tr '
+' '|' | sed 's/\|$//;s/\|/\| /g;s/^/ /'} db >db00
+mv db00 db
+'s&m2' db0 >db1
+cp db1 db0

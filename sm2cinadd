@@ -1,0 +1,3 @@
+#!/bin/rc
+diff <{ls *.pdf | sort} <{awk '{print $5}' db0 | sort} ||
+	sed -n '/^[0-9]/d;s/< /2.5 0 0 0 /p'

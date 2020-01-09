@@ -1,0 +1,5 @@
+#!/bin/rc -e
+rfork n
+truetypefs
+font=/n/ttf/unifont.ttf.16/font
+'s&m2' db0 > db1
