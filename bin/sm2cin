@@ -1,0 +1,7 @@
+#!/bin/rc
+rfork n
+cd $home/p/sm2/cin || exit
+truetypefs
+plumber
+font=/n/ttf/unifont.ttf.16/font rio
+unmount /mnt/plumb
