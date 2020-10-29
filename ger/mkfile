@@ -2,7 +2,7 @@ ALL=`{ls *.t}
 
 all:V: ${ALL:%.t=%.pdf}
 
-%.ms:D: %.t
+%.ms:D:	%.t
 	cat msglobal $prereq | pic | tbl | eqn | 
 		troff -mpictures > $target
 
@@ -10,7 +10,10 @@ all:V: ${ALL:%.t=%.pdf}
 	lp -dstdout < $prereq > $target
 
 %.pdf:D: %.ps
-	ps2pdf $prereq > $target
+	ps2pdf < $prereq > $target
+
+%.gif:D:
+	togif -d 750 $stem[0-9a-z]*.bit > $target
 
 clean:
-	rm -f *.pdf *.ps *.ms
+	rm -f *.pdf *.ps *.gif *.ms
