@@ -1,0 +1,5 @@
+.FP lucidasans
+.de Bp
+.bp 0
+.po 7
+..
