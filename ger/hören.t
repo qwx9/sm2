@@ -2,4 +2,6 @@ hören
 .Bp
 hören
 
-to hearP gehört
+to hear
+
+P gehört
