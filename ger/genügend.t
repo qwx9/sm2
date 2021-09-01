@@ -1,0 +1,5 @@
+genügend
+.BP
+genügend
+
+sufficiently

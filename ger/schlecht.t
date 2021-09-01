@@ -1,0 +1,5 @@
+schlecht
+.BP
+schlecht
+
+bad

@@ -1,0 +1,5 @@
+selbstständig
+.BP
+selbstständig
+
+autonomous

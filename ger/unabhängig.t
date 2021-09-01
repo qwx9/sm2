@@ -1,0 +1,5 @@
+unabhängig
+.BP
+unabhängig
+
+independent

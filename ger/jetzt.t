@@ -1,0 +1,5 @@
+jetzt
+.BP
+jetzt
+
+now

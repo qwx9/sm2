@@ -1,0 +1,5 @@
+fähig
+.BP
+fähig
+
+able

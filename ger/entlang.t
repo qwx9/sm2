@@ -1,0 +1,5 @@
+entlang
+.BP
+entlang
+
+along

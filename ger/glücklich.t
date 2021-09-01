@@ -1,0 +1,5 @@
+glücklich
+.BP
+glücklich
+
+happy

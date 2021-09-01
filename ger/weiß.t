@@ -1,0 +1,5 @@
+weiß
+.BP
+weiß
+
+white

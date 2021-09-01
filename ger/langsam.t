@@ -1,0 +1,5 @@
+langsam
+.BP
+langsam
+
+slow

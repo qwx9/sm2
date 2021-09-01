@@ -1,0 +1,5 @@
+gänzlich
+.BP
+gänzlich
+
+wholly

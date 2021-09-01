@@ -1,0 +1,5 @@
+ständig
+.BP
+ständig
+
+constant

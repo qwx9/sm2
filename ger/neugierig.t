@@ -1,0 +1,5 @@
+neugierig
+.BP
+neugierig
+
+curious

@@ -1,0 +1,5 @@
+zufrieden
+.BP
+zufrieden
+
+satisfied

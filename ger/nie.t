@@ -1,0 +1,5 @@
+nie
+.BP
+nie
+
+never

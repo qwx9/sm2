@@ -1,0 +1,5 @@
+räumlich
+.BP
+räumlich
+
+spatial

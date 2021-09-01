@@ -1,0 +1,5 @@
+geringste
+.BP
+geringste
+
+least

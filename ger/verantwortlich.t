@@ -1,0 +1,5 @@
+verantwortlich
+.BP
+verantwortlich
+
+responsible
