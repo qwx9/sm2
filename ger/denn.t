@@ -1,5 +1,5 @@
 denn
-.BP
+.Bp
 denn
 
 (coll) since/because

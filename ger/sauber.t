@@ -1,5 +1,5 @@
 sauber
-.BP
+.Bp
 sauber
 
 clean

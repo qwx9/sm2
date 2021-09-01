@@ -1,5 +1,5 @@
 beide
-.BP
+.Bp
 beide
 
 both

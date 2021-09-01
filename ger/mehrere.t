@@ -1,5 +1,5 @@
 mehrere
-.BP
+.Bp
 mehrere
 
 several

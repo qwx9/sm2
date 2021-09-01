@@ -1,5 +1,5 @@
 gebildet
-.BP
+.Bp
 gebildet
 
 educated/literate/well-read

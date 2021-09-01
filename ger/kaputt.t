@@ -1,5 +1,5 @@
 kaputt
-.BP
+.Bp
 kaputt
 
 broken

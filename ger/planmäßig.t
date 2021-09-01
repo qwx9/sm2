@@ -1,5 +1,5 @@
 planmäßig
-.BP
+.Bp
 planmäßig
 
 scheduled

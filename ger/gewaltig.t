@@ -1,5 +1,5 @@
 gewaltig
-.BP
+.Bp
 gewaltig
 
 vast/huge

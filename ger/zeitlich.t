@@ -1,5 +1,5 @@
 zeitlich
-.BP
+.Bp
 zeitlich
 
 temporal

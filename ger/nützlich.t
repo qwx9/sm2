@@ -1,5 +1,5 @@
 nützlich
-.BP
+.Bp
 nützlich
 
 useful

@@ -1,5 +1,5 @@
 genug
-.BP
+.Bp
 genug
 
 enough

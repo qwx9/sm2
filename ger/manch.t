@@ -1,5 +1,5 @@
 manch
-.BP
+.Bp
 manch
 
 some/many a

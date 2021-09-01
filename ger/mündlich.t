@@ -1,5 +1,5 @@
 mündlich
-.BP
+.Bp
 mündlich
 
 verbal/oral/viva-voce

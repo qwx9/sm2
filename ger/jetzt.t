@@ -1,5 +1,5 @@
 jetzt
-.BP
+.Bp
 jetzt
 
 now

@@ -1,5 +1,5 @@
 unterschiedlich
-.BP
+.Bp
 unterschiedlich
 
 different (alt.)

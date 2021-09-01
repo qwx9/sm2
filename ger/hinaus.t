@@ -1,5 +1,5 @@
 hinaus
-.BP
+.Bp
 hinaus
 
 out

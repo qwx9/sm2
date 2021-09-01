@@ -1,5 +1,5 @@
 dritt
-.BP
+.Bp
 dritt
 
 third

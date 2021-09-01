@@ -1,5 +1,5 @@
 richtig
-.BP
+.Bp
 richtig
 
 right/true

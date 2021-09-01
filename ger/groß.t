@@ -1,5 +1,5 @@
 groß
-.BP
+.Bp
 groß
 
 big

@@ -1,5 +1,5 @@
 darauf
-.BP
+.Bp
 darauf
 
 thereupon/on/after(zeitlich)

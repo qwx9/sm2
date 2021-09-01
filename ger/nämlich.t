@@ -1,5 +1,5 @@
 nämlich
-.BP
+.Bp
 nämlich
 
 namely/that is to say

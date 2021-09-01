@@ -1,5 +1,5 @@
 sobald
-.BP
+.Bp
 sobald
 
 as soon as

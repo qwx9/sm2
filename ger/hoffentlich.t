@@ -1,5 +1,5 @@
 hoffentlich
-.BP
+.Bp
 hoffentlich
 
 hopefully

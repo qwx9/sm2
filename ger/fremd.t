@@ -1,5 +1,5 @@
 fremd
-.BP
+.Bp
 fremd
 
 foreign

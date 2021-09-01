@@ -1,5 +1,5 @@
 leicht
-.BP
+.Bp
 leicht
 
 easy

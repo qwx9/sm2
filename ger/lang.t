@@ -1,5 +1,5 @@
 lang
-.BP
+.Bp
 lang
 
 long (measure)

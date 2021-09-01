@@ -1,7 +1,8 @@
 dass
-.BP
+.Bp
 dass
 
 that (relative pronoun)
 
-	→ ich habe es so verstanden, dass ...	I have understood that ...
+→ ich habe es so verstanden, dass ...:
+I have understood that ...

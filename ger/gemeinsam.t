@@ -1,5 +1,5 @@
 gemeinsam
-.BP
+.Bp
 gemeinsam
 
 common

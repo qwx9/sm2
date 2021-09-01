@@ -1,5 +1,5 @@
 bevor
-.BP
+.Bp
 bevor
 
 before

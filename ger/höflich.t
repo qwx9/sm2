@@ -1,5 +1,5 @@
 höflich
-.BP
+.Bp
 höflich
 
 polite

@@ -1,5 +1,5 @@
 teuer
-.BP
+.Bp
 teuer
 
 expensive

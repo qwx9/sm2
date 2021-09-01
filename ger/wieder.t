@@ -1,5 +1,5 @@
 wieder
-.BP
+.Bp
 wieder
 
 again

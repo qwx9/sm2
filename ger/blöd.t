@@ -1,5 +1,5 @@
 blöd
-.BP
+.Bp
 blöd
 
 stupid

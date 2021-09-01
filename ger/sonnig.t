@@ -1,5 +1,5 @@
 sonnig
-.BP
+.Bp
 sonnig
 
 sunny

@@ -1,5 +1,5 @@
 zumal
-.BP
+.Bp
 zumal
 
 especially/particularly

@@ -1,5 +1,5 @@
 weiter
-.BP
+.Bp
 weiter
 
 further

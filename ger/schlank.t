@@ -1,5 +1,5 @@
 schlank
-.BP
+.Bp
 schlank
 
 slim

@@ -1,5 +1,5 @@
 einige
-.BP
+.Bp
 einige
 
 some/a few/several

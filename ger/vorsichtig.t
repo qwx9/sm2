@@ -1,5 +1,5 @@
 vorsichtig
-.BP
+.Bp
 vorsichtig
 
 careful

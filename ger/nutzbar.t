@@ -1,5 +1,5 @@
 nutzbar
-.BP
+.Bp
 nutzbar
 
 useful (more common)

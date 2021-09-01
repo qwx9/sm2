@@ -2,4 +2,8 @@ vergessen
 .Bp
 vergessen
 
-to forgetp du vergisst, er vergisstP vergessen
+to forget
+
+p du vergisst, er vergisst
+
+P vergessen

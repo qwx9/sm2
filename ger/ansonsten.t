@@ -1,5 +1,5 @@
 ansonsten
-.BP
+.Bp
 ansonsten
 
 (but) otherwise

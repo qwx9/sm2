@@ -1,5 +1,5 @@
 irgendwann
-.BP
+.Bp
 irgendwann
 
 sometime

@@ -1,5 +1,5 @@
 heiß
-.BP
+.Bp
 heiß
 
 hot

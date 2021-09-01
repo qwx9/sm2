@@ -1,5 +1,5 @@
 hin und zurück
-.BP
+.Bp
 hin und zurück
 
 there and back

@@ -1,5 +1,5 @@
 trotzdem
-.BP
+.Bp
 trotzdem
 
 regardless/anyway/still/fwiw

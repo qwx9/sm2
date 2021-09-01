@@ -1,5 +1,5 @@
 genauso x wie y
-.BP
+.Bp
 genauso x wie y
 
 as x as y (comparative)

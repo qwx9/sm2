@@ -1,5 +1,5 @@
 einfach
-.BP
+.Bp
 einfach
 
 simple/humble/single

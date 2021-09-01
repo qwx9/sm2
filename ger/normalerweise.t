@@ -1,5 +1,5 @@
 normalerweise
-.BP
+.Bp
 normalerweise
 
 normally

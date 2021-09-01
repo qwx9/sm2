@@ -1,5 +1,5 @@
 unterschätzt
-.BP
+.Bp
 unterschätzt
 
 underappreciated

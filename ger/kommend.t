@@ -1,5 +1,5 @@
 kommend
-.BP
+.Bp
 kommend
 
 coming/approaching/next

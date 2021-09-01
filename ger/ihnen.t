@@ -1,5 +1,5 @@
 ihnen
-.BP
+.Bp
 ihnen
 
 them

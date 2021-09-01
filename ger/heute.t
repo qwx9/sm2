@@ -1,5 +1,5 @@
 heute
-.BP
+.Bp
 heute
 
 today/this time

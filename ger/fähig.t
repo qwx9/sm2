@@ -1,5 +1,5 @@
 fähig
-.BP
+.Bp
 fähig
 
 able

@@ -1,5 +1,5 @@
 breit
-.BP
+.Bp
 breit
 
 wide

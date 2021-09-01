@@ -1,5 +1,5 @@
 gleich
-.BP
+.Bp
 gleich
 
 adv: right away/alike/in the same way/equally

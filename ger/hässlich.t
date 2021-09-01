@@ -1,5 +1,5 @@
 hässlich
-.BP
+.Bp
 hässlich
 
 ugly

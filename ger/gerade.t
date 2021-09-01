@@ -1,5 +1,5 @@
 gerade
-.BP
+.Bp
 gerade
 
 straight/direct/just

@@ -1,5 +1,5 @@
 vorgestern
-.BP
+.Bp
 vorgestern
 
 two days ago

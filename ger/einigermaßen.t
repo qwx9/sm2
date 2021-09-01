@@ -1,5 +1,5 @@
 einigermaßen
-.BP
+.Bp
 einigermaßen
 
 to some extent/passably

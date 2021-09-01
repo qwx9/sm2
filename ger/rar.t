@@ -1,5 +1,5 @@
 rar
-.BP
+.Bp
 rar
 
 rarely

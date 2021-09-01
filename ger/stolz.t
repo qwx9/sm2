@@ -1,5 +1,5 @@
 stolz
-.BP
+.Bp
 stolz
 
 proud

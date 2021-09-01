@@ -1,5 +1,5 @@
 unabhängig
-.BP
+.Bp
 unabhängig
 
 independent

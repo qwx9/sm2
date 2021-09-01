@@ -1,5 +1,5 @@
 selten
-.BP
+.Bp
 selten
 
 infrequently

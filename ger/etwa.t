@@ -1,5 +1,5 @@
 etwa
-.BP
+.Bp
 etwa
 
 about/around

@@ -1,5 +1,5 @@
 morgens
-.BP
+.Bp
 morgens
 
 in the morning

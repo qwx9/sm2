@@ -1,5 +1,5 @@
 ziemlich
-.BP
+.Bp
 ziemlich
 
 quite/fairly/kinda

@@ -1,5 +1,5 @@
 treulos
-.BP
+.Bp
 treulos
 
 adv: unfaithfully/disloyally

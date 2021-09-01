@@ -1,5 +1,5 @@
 aus
-.BP
+.Bp
 aus
 
 over/out

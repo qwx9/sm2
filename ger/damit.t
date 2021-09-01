@@ -1,5 +1,5 @@
 damit
-.BP
+.Bp
 damit
 
 thereby

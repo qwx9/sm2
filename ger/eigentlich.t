@@ -1,5 +1,5 @@
 eigentlich
-.BP
+.Bp
 eigentlich
 
 really/actually (reducing negation or question particle of accusation)

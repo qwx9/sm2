@@ -1,5 +1,5 @@
 aufgeschlossen
-.BP
+.Bp
 aufgeschlossen
 
 open-minded

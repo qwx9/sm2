@@ -1,5 +1,5 @@
 schwül
-.BP
+.Bp
 schwül
 
 sticky/sultry (oppresively hot and moist, sweltering)

@@ -1,5 +1,5 @@
 nie
-.BP
+.Bp
 nie
 
 never

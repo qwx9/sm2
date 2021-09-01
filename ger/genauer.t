@@ -1,5 +1,5 @@
 genauer
-.BP
+.Bp
 genauer
 
 more precisely

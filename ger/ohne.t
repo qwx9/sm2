@@ -1,5 +1,5 @@
 ohne
-.BP
+.Bp
 ohne
 
 without

@@ -1,5 +1,5 @@
 weiß
-.BP
+.Bp
 weiß
 
 white

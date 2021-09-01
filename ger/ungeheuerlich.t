@@ -1,5 +1,5 @@
 ungeheuerlich
-.BP
+.Bp
 ungeheuerlich
 
 scandalous/outrageous

@@ -1,5 +1,5 @@
 freiwillig
-.BP
+.Bp
 freiwillig
 
 voluntary

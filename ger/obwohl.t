@@ -1,5 +1,5 @@
 obwohl
-.BP
+.Bp
 obwohl
 
 though/although

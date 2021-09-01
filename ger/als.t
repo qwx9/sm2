@@ -1,5 +1,5 @@
 als
-.BP
+.Bp
 als
 
 than

@@ -1,5 +1,5 @@
 klar
-.BP
+.Bp
 klar
 
 clear

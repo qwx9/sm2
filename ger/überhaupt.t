@@ -1,5 +1,5 @@
 überhaupt
-.BP
+.Bp
 überhaupt
 
 anyway/anyhow/at all

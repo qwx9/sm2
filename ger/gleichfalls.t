@@ -1,5 +1,5 @@
 gleichfalls
-.BP
+.Bp
 gleichfalls
 
 the same/in the same fashion

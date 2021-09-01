@@ -1,5 +1,5 @@
 bis
-.BP
+.Bp
 bis
 
 until

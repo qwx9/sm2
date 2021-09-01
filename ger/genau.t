@@ -1,5 +1,5 @@
 genau
-.BP
+.Bp
 genau
 
 right/exactly/precisely/very

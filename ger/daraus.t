@@ -1,5 +1,5 @@
 daraus
-.BP
+.Bp
 daraus
 
 hence/whence/out of it

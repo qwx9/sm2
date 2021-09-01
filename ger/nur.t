@@ -1,5 +1,5 @@
 nur
-.BP
+.Bp
 nur
 
 only/just

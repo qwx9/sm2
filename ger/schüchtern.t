@@ -1,5 +1,5 @@
 schüchtern
-.BP
+.Bp
 schüchtern
 
 shy

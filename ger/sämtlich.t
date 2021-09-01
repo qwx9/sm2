@@ -1,5 +1,5 @@
 sämtlich
-.BP
+.Bp
 sämtlich
 
 all/complete/altogether (formal)

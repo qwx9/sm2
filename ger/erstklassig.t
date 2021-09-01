@@ -1,5 +1,5 @@
 erstklassig
-.BP
+.Bp
 erstklassig
 
 prime/first class

@@ -1,5 +1,5 @@
 dort
-.BP
+.Bp
 dort
 
 (over) there

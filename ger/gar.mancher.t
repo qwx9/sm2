@@ -1,5 +1,5 @@
 gar mancher
-.BP
+.Bp
 gar mancher
 
 many a person

@@ -1,5 +1,5 @@
 vertig
-.BP
+.Bp
 vertig
 
 ready

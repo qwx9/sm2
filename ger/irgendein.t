@@ -1,5 +1,5 @@
 irgendein
-.BP
+.Bp
 irgendein
 
 some

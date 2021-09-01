@@ -1,5 +1,5 @@
 sowie
-.BP
+.Bp
 sowie
 
 as well as

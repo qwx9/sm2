@@ -1,5 +1,5 @@
 ständig
-.BP
+.Bp
 ständig
 
 constant

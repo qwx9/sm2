@@ -1,5 +1,5 @@
 zu
-.BP
+.Bp
 zu
 
 to (e.g. to do)

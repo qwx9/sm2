@@ -1,5 +1,5 @@
 zuerst
-.BP
+.Bp
 zuerst
 
 at first/first of all

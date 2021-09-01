@@ -1,5 +1,5 @@
 langsam
-.BP
+.Bp
 langsam
 
 slow

@@ -1,5 +1,5 @@
 gut gelaunt
-.BP
+.Bp
 gut gelaunt
 
 good-humored

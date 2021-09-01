@@ -1,5 +1,5 @@
 rechts
-.BP
+.Bp
 rechts
 
 (to the) right

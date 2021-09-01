@@ -1,5 +1,5 @@
 ob
-.BP
+.Bp
 ob
 
 if/whether

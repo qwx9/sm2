@@ -1,5 +1,5 @@
 aber
-.BP
+.Bp
 aber
 
 but

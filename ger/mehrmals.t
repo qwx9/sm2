@@ -1,5 +1,5 @@
 mehrmals
-.BP
+.Bp
 mehrmals
 
 repeatedly/on several occasions

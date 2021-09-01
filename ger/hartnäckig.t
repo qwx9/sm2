@@ -1,5 +1,5 @@
 hartnäckig
-.BP
+.Bp
 hartnäckig
 
 persistent/relentless (thing)

@@ -1,5 +1,5 @@
 glücklich
-.BP
+.Bp
 glücklich
 
 happy

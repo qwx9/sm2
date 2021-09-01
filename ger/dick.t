@@ -1,5 +1,5 @@
 dick
-.BP
+.Bp
 dick
 
 thick

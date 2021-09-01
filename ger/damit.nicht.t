@@ -1,5 +1,5 @@
 damit nicht
-.BP
+.Bp
 damit nicht
 
 lest

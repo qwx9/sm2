@@ -1,5 +1,5 @@
 schnell
-.BP
+.Bp
 schnell
 
 fast

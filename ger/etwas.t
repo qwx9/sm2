@@ -1,5 +1,5 @@
 etwas
-.BP
+.Bp
 etwas
 
 something/some

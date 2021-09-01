@@ -1,5 +1,5 @@
 gerne
-.BP
+.Bp
 gerne
 
 gladly/with pleasure/readily

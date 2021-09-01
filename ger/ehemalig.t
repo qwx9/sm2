@@ -1,5 +1,5 @@
 ehemalig
-.BP
+.Bp
 ehemalig
 
 ancient/past

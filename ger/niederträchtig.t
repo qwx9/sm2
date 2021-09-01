@@ -1,5 +1,5 @@
 niederträchtig
-.BP
+.Bp
 niederträchtig
 
 wicked/rotten/heinous

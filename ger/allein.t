@@ -1,5 +1,5 @@
 allein
-.BP
+.Bp
 allein
 
 alone

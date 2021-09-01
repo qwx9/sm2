@@ -1,5 +1,5 @@
 ewig
-.BP
+.Bp
 ewig
 
 forever

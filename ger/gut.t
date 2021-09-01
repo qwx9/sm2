@@ -1,5 +1,5 @@
 gut
-.BP
+.Bp
 gut
 
 good

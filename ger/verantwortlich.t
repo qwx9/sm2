@@ -1,5 +1,5 @@
 verantwortlich
-.BP
+.Bp
 verantwortlich
 
 responsible

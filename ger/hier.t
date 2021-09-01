@@ -1,5 +1,5 @@
 hier
-.BP
+.Bp
 hier
 
 here

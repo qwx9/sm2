@@ -1,5 +1,5 @@
 weit
-.BP
+.Bp
 weit
 
 far

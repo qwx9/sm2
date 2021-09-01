@@ -1,5 +1,5 @@
 gleichzeitig
-.BP
+.Bp
 gleichzeitig
 
 at the same time

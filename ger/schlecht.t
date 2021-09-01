@@ -1,5 +1,5 @@
 schlecht
-.BP
+.Bp
 schlecht
 
 bad

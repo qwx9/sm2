@@ -1,5 +1,5 @@
 irgendeinmal
-.BP
+.Bp
 irgendeinmal
 
 sometime/someday or another

@@ -1,5 +1,5 @@
 dazu
-.BP
+.Bp
 dazu
 
 thereto/to [it|that]

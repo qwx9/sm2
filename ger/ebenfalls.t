@@ -1,5 +1,5 @@
 ebenfalls
-.BP
+.Bp
 ebenfalls
 
 also/as well/equally

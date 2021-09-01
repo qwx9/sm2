@@ -1,5 +1,5 @@
 gemein
-.BP
+.Bp
 gemein
 
 mean/vile/...

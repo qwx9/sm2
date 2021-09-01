@@ -1,5 +1,5 @@
 jede
-.BP
+.Bp
 jede
 
 (adv) any

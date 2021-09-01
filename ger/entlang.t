@@ -1,5 +1,5 @@
 entlang
-.BP
+.Bp
 entlang
 
 along

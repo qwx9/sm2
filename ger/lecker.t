@@ -1,5 +1,5 @@
 lecker
-.BP
+.Bp
 lecker
 
 good/nice/delicate

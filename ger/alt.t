@@ -1,5 +1,5 @@
 alt
-.BP
+.Bp
 alt
 
 old

@@ -1,5 +1,5 @@
 ander
-.BP
+.Bp
 ander
 
 other/another/different

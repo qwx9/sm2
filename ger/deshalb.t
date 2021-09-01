@@ -1,5 +1,5 @@
 deshalb
-.BP
+.Bp
 deshalb
 
 therefore/hence

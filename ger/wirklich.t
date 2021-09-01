@@ -1,5 +1,5 @@
 wirklich
-.BP
+.Bp
 wirklich
 
 adv: really/quite/sure(coll.)

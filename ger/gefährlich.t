@@ -1,5 +1,5 @@
 gefährlich
-.BP
+.Bp
 gefährlich
 
 dangerous

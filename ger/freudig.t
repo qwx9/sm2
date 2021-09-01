@@ -1,5 +1,5 @@
 freudig
-.BP
+.Bp
 freudig
 
 joyous

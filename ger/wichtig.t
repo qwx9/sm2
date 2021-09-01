@@ -1,5 +1,5 @@
 wichtig
-.BP
+.Bp
 wichtig
 
 important

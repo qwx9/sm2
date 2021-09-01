@@ -1,5 +1,5 @@
 geheim
-.BP
+.Bp
 geheim
 
 secret

@@ -1,5 +1,5 @@
 sofort
-.BP
+.Bp
 sofort
 
 straightaway

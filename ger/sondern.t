@@ -1,5 +1,5 @@
 sondern
-.BP
+.Bp
 sondern
 
 but/but rather/(n)either

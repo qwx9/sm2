@@ -1,5 +1,5 @@
 ganz
-.BP
+.Bp
 ganz
 
 {adj} all (of)

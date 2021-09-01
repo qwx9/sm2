@@ -1,5 +1,5 @@
 spät
-.BP
+.Bp
 spät
 
 late

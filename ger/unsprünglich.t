@@ -1,5 +1,5 @@
 unsprünglich
-.BP
+.Bp
 unsprünglich
 
 originally/initially

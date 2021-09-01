@@ -1,5 +1,5 @@
 speziell
-.BP
+.Bp
 speziell
 
 adv: specifically

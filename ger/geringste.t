@@ -1,5 +1,5 @@
 geringste
-.BP
+.Bp
 geringste
 
 least

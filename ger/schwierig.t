@@ -1,5 +1,5 @@
 schwierig
-.BP
+.Bp
 schwierig
 
 difficult/tough

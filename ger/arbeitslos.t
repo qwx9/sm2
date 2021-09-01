@@ -1,5 +1,5 @@
 arbeitslos
-.BP
+.Bp
 arbeitslos
 
 unemployed

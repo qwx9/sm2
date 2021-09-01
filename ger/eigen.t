@@ -1,5 +1,5 @@
 eigen
-.BP
+.Bp
 eigen
 
 own

@@ -1,5 +1,5 @@
 weder noch
-.BP
+.Bp
 weder noch
 
 neither... nor

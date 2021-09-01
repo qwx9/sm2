@@ -1,5 +1,5 @@
 fröhlich über etw
-.BP
+.Bp
 fröhlich über etw
 
 happy about sth

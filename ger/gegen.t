@@ -1,5 +1,5 @@
 gegen
-.BP
+.Bp
 gegen
 
 against/towards/about

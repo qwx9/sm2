@@ -1,5 +1,5 @@
 böse
-.BP
+.Bp
 böse
 
 mean/angry/evil

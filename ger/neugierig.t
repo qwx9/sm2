@@ -1,5 +1,5 @@
 neugierig
-.BP
+.Bp
 neugierig
 
 curious

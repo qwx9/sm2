@@ -1,5 +1,5 @@
 niedrig
-.BP
+.Bp
 niedrig
 
 low

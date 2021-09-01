@@ -1,5 +1,5 @@
 spannend
-.BP
+.Bp
 spannend
 
 exciting/thrilling/gripping

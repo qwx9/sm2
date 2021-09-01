@@ -1,5 +1,5 @@
 welchem
-.BP
+.Bp
 welchem
 
 who/whom

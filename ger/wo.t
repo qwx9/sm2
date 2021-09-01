@@ -1,5 +1,5 @@
 wo
-.BP
+.Bp
 wo
 
 where

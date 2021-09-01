@@ -1,5 +1,5 @@
 neben
-.BP
+.Bp
 neben
 
 next to

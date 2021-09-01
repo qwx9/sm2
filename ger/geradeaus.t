@@ -1,5 +1,5 @@
 geradeaus
-.BP
+.Bp
 geradeaus
 
 straight ahead

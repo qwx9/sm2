@@ -1,5 +1,5 @@
 hoch
-.BP
+.Bp
 hoch
 
 high

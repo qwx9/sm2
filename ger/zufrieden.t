@@ -1,5 +1,5 @@
 zufrieden
-.BP
+.Bp
 zufrieden
 
 satisfied

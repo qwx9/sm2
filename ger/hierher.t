@@ -1,5 +1,5 @@
 hierher
-.BP
+.Bp
 hierher
 
 hither/here

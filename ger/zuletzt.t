@@ -1,5 +1,5 @@
 zuletzt
-.BP
+.Bp
 zuletzt
 
 last time/when last heard of

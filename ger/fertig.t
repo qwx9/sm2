@@ -1,5 +1,5 @@
 fertig
-.BP
+.Bp
 fertig
 
 (coll) beat

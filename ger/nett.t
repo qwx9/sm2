@@ -1,5 +1,5 @@
 nett
-.BP
+.Bp
 nett
 
 nice/neat/in fair amounts

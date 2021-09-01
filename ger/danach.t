@@ -1,5 +1,5 @@
 danach
-.BP
+.Bp
 danach
 
 afterwards

@@ -1,5 +1,5 @@
 gar nichts
-.BP
+.Bp
 gar nichts
 
 nothing whatsoever

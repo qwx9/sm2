@@ -1,5 +1,5 @@
 ein bisschen
-.BP
+.Bp
 ein bisschen
 
 a bit of $1

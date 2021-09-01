@@ -1,5 +1,5 @@
 gesamt
-.BP
+.Bp
 gesamt
 
 entire

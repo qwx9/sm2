@@ -1,5 +1,5 @@
 gänzlich
-.BP
+.Bp
 gänzlich
 
 wholly

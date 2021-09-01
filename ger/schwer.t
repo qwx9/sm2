@@ -1,5 +1,5 @@
 schwer
-.BP
+.Bp
 schwer
 
 hard/difficult

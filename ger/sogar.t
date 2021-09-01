@@ -1,5 +1,5 @@
 sogar
-.BP
+.Bp
 sogar
 
 even/actually

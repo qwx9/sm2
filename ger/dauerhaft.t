@@ -1,5 +1,5 @@
 dauerhaft
-.BP
+.Bp
 dauerhaft
 
 lasting/durable

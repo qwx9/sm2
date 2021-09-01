@@ -1,5 +1,5 @@
 langweillig
-.BP
+.Bp
 langweillig
 
 dull/boring/wearisome

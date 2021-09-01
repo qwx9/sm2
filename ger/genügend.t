@@ -1,5 +1,5 @@
 genügend
-.BP
+.Bp
 genügend
 
 sufficiently

@@ -1,5 +1,5 @@
 komisch
-.BP
+.Bp
 komisch
 
 strange/funny

@@ -1,5 +1,5 @@
 irgend
-.BP
+.Bp
 irgend
 
 at all

@@ -1,5 +1,5 @@
 stark
-.BP
+.Bp
 stark
 
 strong/powerful/intense

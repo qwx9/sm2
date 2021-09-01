@@ -1,5 +1,5 @@
 stubenrein
-.BP
+.Bp
 stubenrein
 
 house-trained

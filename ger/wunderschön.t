@@ -1,5 +1,5 @@
 wunderschön
-.BP
+.Bp
 wunderschön
 
 wonderful

@@ -1,5 +1,5 @@
 falsch
-.BP
+.Bp
 falsch
 
 false

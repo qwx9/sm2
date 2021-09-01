@@ -1,5 +1,5 @@
 gestern
-.BP
+.Bp
 gestern
 
 yesterday

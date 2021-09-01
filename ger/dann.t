@@ -1,5 +1,5 @@
 dann
-.BP
+.Bp
 dann
 
 then

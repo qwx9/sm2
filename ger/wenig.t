@@ -1,5 +1,5 @@
 wenig
-.BP
+.Bp
 wenig
 
 little/few

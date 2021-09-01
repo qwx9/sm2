@@ -1,5 +1,5 @@
 ein paar
-.BP
+.Bp
 ein paar
 
 a couple of/some

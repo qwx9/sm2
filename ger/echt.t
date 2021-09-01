@@ -1,5 +1,5 @@
 echt
-.BP
+.Bp
 echt
 
 genuine/pure/real

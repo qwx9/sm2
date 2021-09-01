@@ -1,5 +1,5 @@
 anstatt
-.BP
+.Bp
 anstatt
 
 instead of

@@ -1,5 +1,5 @@
 gar nicht
-.BP
+.Bp
 gar nicht
 
 none/not at all

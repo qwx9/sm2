@@ -1,5 +1,5 @@
 sonst
-.BP
+.Bp
 sonst
 
 else/otherwise

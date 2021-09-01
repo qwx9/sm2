@@ -1,5 +1,5 @@
 lebenswichtig
-.BP
+.Bp
 lebenswichtig
 
 vital/vitally important/critical

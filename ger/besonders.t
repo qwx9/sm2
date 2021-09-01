@@ -1,5 +1,5 @@
 besonders
-.BP
+.Bp
 besonders
 
 especially/particularly

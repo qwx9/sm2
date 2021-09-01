@@ -1,5 +1,5 @@
 blau
-.BP
+.Bp
 blau
 
 blue

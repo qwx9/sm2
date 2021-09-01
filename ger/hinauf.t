@@ -1,5 +1,5 @@
 hinauf
-.BP
+.Bp
 hinauf
 
 up

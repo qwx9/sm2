@@ -1,5 +1,5 @@
 zufällig
-.BP
+.Bp
 zufällig
 
 by chance

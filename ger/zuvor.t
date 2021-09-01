@@ -1,5 +1,5 @@
 zuvor
-.BP
+.Bp
 zuvor
 
 before/earlier/previously

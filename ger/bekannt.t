@@ -1,5 +1,5 @@
 bekannt
-.BP
+.Bp
 bekannt
 
 known

@@ -1,5 +1,5 @@
 nun
-.BP
+.Bp
 nun
 
 now/at the moment

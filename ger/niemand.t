@@ -1,5 +1,5 @@
 niemand
-.BP
+.Bp
 niemand
 
 nobody/no one

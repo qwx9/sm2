@@ -1,5 +1,5 @@
 draußen
-.BP
+.Bp
 draußen
 
 out/outside

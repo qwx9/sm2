@@ -1,5 +1,5 @@
 jedesmal
-.BP
+.Bp
 jedesmal
 
 every time

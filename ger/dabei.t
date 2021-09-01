@@ -1,5 +1,5 @@
 dabei
-.BP
+.Bp
 dabei
 
 (adv) at the same time

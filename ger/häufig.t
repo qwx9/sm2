@@ -1,5 +1,5 @@
 häufig
-.BP
+.Bp
 häufig
 
 frequently/prevalently

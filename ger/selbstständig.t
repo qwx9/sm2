@@ -1,5 +1,5 @@
 selbstständig
-.BP
+.Bp
 selbstständig
 
 autonomous

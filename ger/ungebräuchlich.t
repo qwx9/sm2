@@ -1,5 +1,5 @@
 ungebräuchlich
-.BP
+.Bp
 ungebräuchlich
 
 uncommon/rarely used

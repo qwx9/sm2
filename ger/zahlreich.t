@@ -1,5 +1,5 @@
 zahlreich
-.BP
+.Bp
 zahlreich
 
 frequent/numerous

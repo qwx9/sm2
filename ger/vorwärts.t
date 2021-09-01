@@ -1,5 +1,5 @@
 vorwärts
-.BP
+.Bp
 vorwärts
 
 forwards

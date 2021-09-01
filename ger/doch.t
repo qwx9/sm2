@@ -1,5 +1,5 @@
 doch
-.BP
+.Bp
 doch
 
 si/but

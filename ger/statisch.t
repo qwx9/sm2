@@ -1,5 +1,5 @@
 statisch
-.BP
+.Bp
 statisch
 
 static/statical

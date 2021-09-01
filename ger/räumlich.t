@@ -1,5 +1,5 @@
 räumlich
-.BP
+.Bp
 räumlich
 
 spatial

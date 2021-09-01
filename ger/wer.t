@@ -1,5 +1,5 @@
 wer
-.BP
+.Bp
 wer
 
 who (interrog)

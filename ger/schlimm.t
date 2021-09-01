@@ -1,5 +1,5 @@
 schlimm
-.BP
+.Bp
 schlimm
 
 serious/terrible

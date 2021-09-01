@@ -1,5 +1,5 @@
 halbwegs
-.BP
+.Bp
 halbwegs
 
 reasonably/decently/passably

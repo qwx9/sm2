@@ -1,5 +1,5 @@
 möglich
-.BP
+.Bp
 möglich
 
 possible

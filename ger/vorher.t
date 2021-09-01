@@ -1,5 +1,5 @@
 vorher
-.BP
+.Bp
 vorher
 
 before (zeitlich)

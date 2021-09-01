@@ -1,5 +1,5 @@
 berufstätig
-.BP
+.Bp
 berufstätig
 
 employed

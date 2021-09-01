@@ -1,5 +1,5 @@
 alle
-.BP
+.Bp
 alle
 
 all

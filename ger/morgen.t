@@ -1,5 +1,5 @@
 morgen
-.BP
+.Bp
 morgen
 
 tomorrow

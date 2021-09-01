@@ -1,5 +1,5 @@
 verschieden
-.BP
+.Bp
 verschieden
 
 different/distinct (from)

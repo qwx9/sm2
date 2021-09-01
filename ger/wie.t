@@ -1,5 +1,5 @@
 wie
-.BP
+.Bp
 wie
 
 how

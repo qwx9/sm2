@@ -1,5 +1,5 @@
 vereinbart
-.BP
+.Bp
 vereinbart
 
 concerted/stipulated
