@@ -12,7 +12,7 @@ $1 != ""{
 		print f ": appending to existing file"
 	else
 		print "2.5 0 0 0 " f ".pdf" >>dict
-	printf "%s\n.BP\n%s\n\n%s\n", $1, $1, $2 >>last
+	printf "%s\n.Bp\n%s\n\n%s\n", $1, $1, $2 >>last
 	close(last)
 }
 ' $*
