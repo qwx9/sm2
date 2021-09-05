@@ -2,4 +2,6 @@ schließen
 .Bp
 schließen
 
-to closeP geschlossen
+to close
+
+P geschlossen

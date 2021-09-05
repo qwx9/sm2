@@ -2,4 +2,6 @@ treffen
 .Bp
 treffen
 
-to meet someoneP getroffen
+to meet someone
+
+P getroffen

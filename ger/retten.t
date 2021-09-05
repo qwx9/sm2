@@ -2,4 +2,6 @@ retten
 .Bp
 retten
 
-to save/salvageP gerettet
+to save/salvage
+
+P gerettet

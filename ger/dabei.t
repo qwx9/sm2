@@ -4,4 +4,4 @@ dabei
 
 (adv) at the same time
 
-	; also zugliech, nebenher
+; also zugliech, nebenher

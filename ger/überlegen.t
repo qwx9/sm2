@@ -6,6 +6,8 @@ to consider/cogitate/reflect
 
 P überlegt
 
-→ (adj) überlegt	advised
+→ (adj) überlegt:
+advised
 
-→ lass mich kurz überlegen	let me just work on it
+→ lass mich kurz überlegen:
+let me just work on it

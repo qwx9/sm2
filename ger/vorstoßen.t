@@ -2,4 +2,8 @@ vorstoßen
 .Bp
 vorstoßen
 
-to push forwardp er stößt vorP vorgestoßen
+to push forward
+
+p er stößt vor
+
+P vorgestoßen

@@ -2,4 +2,6 @@ reisen
 .Bp
 reisen
 
-to travel/goP gereist
+to travel/go
+
+P gereist

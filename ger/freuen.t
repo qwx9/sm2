@@ -2,4 +2,13 @@ freuen
 .Bp
 freuen
 
-to be glad/happy/pleased (about)= sich freuento be glad= sich auf etw freuento look forward to sth= sich über etw freuento rejoice over sth
+to be glad/happy/pleased (about)
+
+= sich freuen
+	to be glad
+
+= sich auf etw freuen
+	to look forward to sth
+
+= sich über etw freuen
+	to rejoice over sth

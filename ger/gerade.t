@@ -4,4 +4,5 @@ gerade
 
 straight/direct/just
 
-	→ gerade soviel, dass ...	just enough to ...
+→ gerade soviel, dass ...:
+just enough to ...

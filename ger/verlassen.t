@@ -4,4 +4,5 @@ verlassen
 
 to leave
 
-→ Er verlässt	he leaves
+→ er verlässt:
+he leaves

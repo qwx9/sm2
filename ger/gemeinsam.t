@@ -4,4 +4,5 @@ gemeinsam
 
 common
 
-	→ gemein haben	have similar mentality
+→ gemein haben:
+	have similar mentality
