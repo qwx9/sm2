@@ -4,6 +4,8 @@ dazu
 
 thereto/to [it|that]
 
-	→ ich habe nichts dazu gesagt	I have not said anything about that
+→ ich habe nichts dazu gesagt:
+	I have not said anything about that
 
-	→ noch dazu	as well
+→ noch dazu:
+	as well

@@ -4,4 +4,6 @@ viel
 
 much
 
-	→ zu viel	too much
+→ zu viel:
+
+too much

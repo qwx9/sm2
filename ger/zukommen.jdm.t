@@ -1,8 +1,11 @@
-zukommen (jdm)
+zukommen (jdm/etw)
 .Bp
-zukommen (jdm)
+zukommen (jdm/etw)
 
-to be due (to sb)
+to be due to sb/sth;
+to belong to, to be assigned to
+
+.I (this seems like a weird translation)
 
 → die Dinge auf sich zukommen lassen:
 	to take things as they come

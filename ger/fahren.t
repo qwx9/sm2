@@ -2,4 +2,6 @@ fahren
 .Bp
 fahren
 
-to head (for)/travelp du fährst, er fährt
+to head (for)/travel
+
+p du fährst, er fährt

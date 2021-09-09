@@ -5,7 +5,7 @@ verraten
 to betray/to give away sth
 
 = jdn an jdn verraten:
-to betray sb
+	to betray sb
 
 = eine Sache verraten:
-to give away sth
+	to give away sth

@@ -4,4 +4,5 @@ sämtlich
 
 all/complete/altogether (formal)
 
-	→ sämtliche Anwesenden	all those present
+→ sämtliche Anwesenden:
+	all those present

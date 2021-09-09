@@ -4,8 +4,10 @@ manch
 
 some/many a
 
-	= manche[rs]
+= manche[rs]
 
-	→ manche Leute sagen:	some people say
+→ manche Leute sagen:
+	some people say
 
-	→ manchmal:	sometimes
+→ manchmal:
+	sometimes

@@ -2,6 +2,7 @@ ein bisschen
 .Bp
 ein bisschen
 
-a bit of $1
+a bit of sth
 
-	→ ein kleines bisschen später: a little bit later
+→ ein kleines bisschen später:
+	a little bit later

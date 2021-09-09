@@ -3,7 +3,8 @@ aufspielen
 aufspielen
 
 (comp.) to install;
+
 (mus.) to play
 
 → sich aufspielen:
-to put on airs
+	to put on airs
