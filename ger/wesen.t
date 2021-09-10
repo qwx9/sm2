@@ -2,4 +2,6 @@ wesen
 .Bp
 wesen
 
-to exist (uncommon)P gewesen
+to exist (uncommon)
+
+P gewesen
