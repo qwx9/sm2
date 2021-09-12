@@ -4,4 +4,4 @@ ein paar
 
 a couple of/some
 
-	= like einige, manche
+= like einige, manche

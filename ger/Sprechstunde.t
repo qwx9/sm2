@@ -1,5 +1,5 @@
 Sprechstunde
 .Bp
-Sprechstunde(f)
+Sprechstunde(f),n
 
 a doctor's consultation/office hour

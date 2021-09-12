@@ -1,5 +1,5 @@
 Gewicht
 .Bp
-Gewicht(n)
+Gewicht(n),e
 
 a weight (quantity of heaviness)

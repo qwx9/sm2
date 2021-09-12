@@ -2,4 +2,7 @@ finden
 .Bp
 finden
 
-to findp du findest, ihr findetP gefunden
+to find
+
+p du findest, ihr findet
+P gefunden

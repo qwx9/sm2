@@ -1,5 +1,5 @@
 Verspätung
 .Bp
-Verspätung(f)
+Verspätung(f),en
 
 a delay

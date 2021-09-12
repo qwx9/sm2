@@ -4,4 +4,5 @@ häufig
 
 frequently/prevalently
 
-	; häufiger	more often
+→ häufiger:
+	more often

@@ -1,5 +1,7 @@
 Lehre
 .Bp
-Lehre(f)
+Lehre(f),n
 
-an apprenticeship
+(edu.c, jobs) an apprenticeship;
+(acad. relig.) doctrine, tenet
+(acad.) science

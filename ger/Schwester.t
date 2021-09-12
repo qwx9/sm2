@@ -1,5 +1,5 @@
 Schwester
 .Bp
-Schwester(f)
+Schwester(f),n
 
 a sister

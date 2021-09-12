@@ -2,4 +2,6 @@ genießen
 .Bp
 genießen
 
-to enjoyP genossen
+to enjoy
+
+P genossen

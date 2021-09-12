@@ -3,3 +3,5 @@ gut
 gut
 
 good
+
+besser → am besten

@@ -1,5 +1,5 @@
 Aufwand
 .Bp
-Aufwand(m)
+Aufwand(m),"e
 
 an expense/cost

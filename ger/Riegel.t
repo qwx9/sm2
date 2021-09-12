@@ -1,5 +1,5 @@
 Riegel
 .Bp
-Riegel(m)
+Riegel(m),
 
 an edible bar (of sth), a lock/latch

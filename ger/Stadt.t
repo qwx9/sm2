@@ -1,5 +1,5 @@
 Stadt
 .Bp
-Stadt(f)
+Stadt(f),"e
 
 a city

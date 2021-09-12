@@ -1,5 +1,5 @@
 Schweinhund
 .Bp
-Schweinhund(m)
+Schweinhund(m),e
 
 a skunk; a bastard/pigdog
