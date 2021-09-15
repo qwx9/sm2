@@ -4,4 +4,4 @@ nächste
 
 next
 
-	→ bis nächste Woche
+→ bis nächste Woche

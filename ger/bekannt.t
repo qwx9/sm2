@@ -8,4 +8,4 @@ known
 	to be very well known
 
 → bekannt als:
-	known als
+	known as

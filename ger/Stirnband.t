@@ -1,5 +1,5 @@
-stirnband
+Stirnband
 .Bp
-stirnband (n)
+Stirnband(n),"er
 
 headband

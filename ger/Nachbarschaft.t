@@ -1,5 +1,6 @@
 Nachbarschaft
 .Bp
-Nachbarschaft(f),n
+Nachbarschaft(f),en
 
-a neighbour/neighbourhood
+neighbourhood, vicinity;
+proximity (spatial), adjacency, contiguity

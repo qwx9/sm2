@@ -4,4 +4,4 @@ verschieden
 
 different/distinct (from)
 
-	= verschieden von etw.
+= verschieden von etw.

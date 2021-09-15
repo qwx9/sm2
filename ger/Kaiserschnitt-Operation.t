@@ -1,5 +1,7 @@
 Kaiserschnitt-Operation
 .Bp
-Kaiserschnitt-Operation(f)
+Kaiserschnitt(m),e-Operation(f),en
+
+; actually it's just Kaiserschnitt(m)
 
 a c-section

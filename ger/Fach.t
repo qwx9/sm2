@@ -1,5 +1,8 @@
 Fach
 .Bp
-Fach(n)
+Fach(n),"er
 
-a facet/panel
+a facet/panel;
+compartment;
+(educ.) discipline/subject/field;
+(econ.) line (of business)/trade/branch

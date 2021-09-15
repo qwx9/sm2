@@ -4,4 +4,4 @@ Hauptstadt(f),
 
 a capital city
 
-	= also Kapitale(f),n (veraltet)
+= also Kapitale(f),n (veraltet)

@@ -1,5 +1,5 @@
 Auto
 .Bp
-Auto(n)
+Auto(n),s
 
 a car

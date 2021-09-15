@@ -1,5 +1,5 @@
 Fachgeschäft
 .Bp
-Fachgeschäft(n)
+Fachgeschäft(n),e
 
 a specialized dealer

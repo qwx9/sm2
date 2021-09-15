@@ -4,6 +4,6 @@ sobald
 
 as soon as
 
-	+ also sowie
++ also sowie
 
-	→ sobald als möglich
+→ sobald als möglich

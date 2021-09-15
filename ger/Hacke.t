@@ -1,5 +1,5 @@
-Hacken
+Hacke
 .Bp
-Hacken(f),n
+Hacke(f),n
 
 (anat) heel; (hort.) hoe; (tools.) pick/pickaxe, mattock

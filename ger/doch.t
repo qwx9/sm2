@@ -2,8 +2,13 @@ doch
 .Bp
 doch
 
-si/but
+however, still, yet, but, nevertheless;
+(coll.) too
 
-	→ aber ja doch: why, yes!
+→ aber ja doch:
+	why, yes!
 
-	= may be used instead of aber
+→ Doch!:
+	after all, you know..., on the contrary!
+
+= may be used instead of aber

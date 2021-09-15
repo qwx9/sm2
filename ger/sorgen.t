@@ -4,4 +4,5 @@ sorgen
 
 to worry
 
-= sich sorgen	to care about sth/sb
+= sich sorgen:
+	to care about sth/sb
