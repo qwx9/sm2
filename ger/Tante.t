@@ -1,5 +1,5 @@
 Tante
 .Bp
-Tante(f)
+Tante(f),n
 
-a tante
+aunt

@@ -2,4 +2,6 @@ zusätzlich
 .Bp
 zusätzlich
 
-(adv) accessorily, in addtion; (adj) accessory, added, additional, auxiliary, other
+(adv) accessorily, in addition
+
+(adj) accessory, added, additional, auxiliary, other

@@ -2,4 +2,6 @@ liegen
 .Bp
 liegen
 
-to lie/be somewhereP gelegen
+to lie/be somewhere
+
+P gelegen

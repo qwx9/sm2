@@ -1,5 +1,5 @@
 Straße
 .Bp
-Straße(f)
+Straße(f),n
 
-a street
+street, road

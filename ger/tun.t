@@ -4,6 +4,8 @@ tun
 
 to do
 
-g tuend
+tut, tat, getan
 
-P getan
+p tue, tust, tut, tun, tut, tun
+
+P tat, tatst, tat, taten, tatet, taten

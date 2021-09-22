@@ -1,5 +1,5 @@
-Nichtraucher
+Nichtraucher[in]
 .Bp
-Nichtraucher(m)
+Nichtraucher,[innen]
 
 a non-smoker

@@ -2,4 +2,4 @@ Buchstabe
 .Bp
 Buchstabe(m),n
 
-a letter/character
+a letter/character (of the alphabet)

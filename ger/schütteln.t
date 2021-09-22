@@ -2,4 +2,9 @@ schütteln
 .Bp
 schütteln
 
-to shake/rattle/convulseP geschüttelt→ sich Kopf schüttelnto negatively nod one's head
+to shake/rattle/convulse
+
+→ sich Kopf schütteln:
+	to negatively nod one's head
+
+P geschüttelt

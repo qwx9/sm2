@@ -1,5 +1,5 @@
 Restaurant
 .Bp
-Restaurant(n)
+Restaurant(n),s
 
-a restaurant
+restaurant (pronounced like french)

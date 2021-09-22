@@ -2,6 +2,10 @@ lernen
 .Bp
 lernen
 
-to learn
+to learn (sth)
 
-P gelernt
+p lernt
+
+P lernte
+
+π hat gelernt

@@ -4,4 +4,5 @@ heute
 
 today/this time
 
-	→ heute Abend: this evening
+→ heute Abend:
+	this evening

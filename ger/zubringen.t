@@ -2,6 +2,6 @@ zubringen
 .Bp
 zubringen
 
-to spend (one's time doing sth)
+to spend time (doing sth, etc.)
 
-P zugebracht
+bringt zu, brachte zu, zugebracht

@@ -1,5 +1,5 @@
 Universität
 .Bp
-Universität(f)
+Universität(f),n
 
-a university
+university

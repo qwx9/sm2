@@ -1,5 +1,5 @@
 Betriebssystem
 .Bp
-Betriebssystem
+Betriebssystem(n),e
 
 an OS

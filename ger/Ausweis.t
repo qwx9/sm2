@@ -1,5 +1,5 @@
-ausweis
+Ausweis
 .Bp
-ausweis (m)
+Ausweis(m),e
 
 identification paper

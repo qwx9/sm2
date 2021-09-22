@@ -1,5 +1,5 @@
 Tasche
 .Bp
-Tasche(m)
+Tasche(f),n
 
-a pocket
+bag

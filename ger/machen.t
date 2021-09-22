@@ -2,4 +2,6 @@ machen
 .Bp
 machen
 
-to make
+to do sth; to make sth; to perform sth
+
+macht, machte, hat gemacht

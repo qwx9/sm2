@@ -2,4 +2,10 @@ buchstabieren
 .Bp
 buchstabieren
 
-to spell sthP buchstabiert
+to spell sth
+
+p buchstabiert
+
+P buchstabierte
+
+π buchstabiert

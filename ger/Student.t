@@ -1,5 +1,5 @@
 Student
 .Bp
-Student[in]
+Student[in],en/nen
 
-a university student
+student

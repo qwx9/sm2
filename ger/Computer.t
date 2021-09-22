@@ -1,5 +1,5 @@
 Computer
 .Bp
-Computer(m)
+Computer(m),
 
-a computer
+computer (pronounced like in english)

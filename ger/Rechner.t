@@ -1,5 +1,5 @@
 Rechner
 .Bp
-Rechner(m)
+Rechner(m),
 
 a computer
