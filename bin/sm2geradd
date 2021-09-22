@@ -1,9 +1,5 @@
 #!/bin/rc
 awk -F'	+' -v 'p=/usr/qwx/p/sm2/ger' -v 'dict=/usr/qwx/p/sm2/ger/db' '
-$1 == ""{
-	print "\n" $0 >>last
-	close(last)
-}
 $1 != ""{
 	f = $1
 	gsub("[\\[\\(,]+.*", "", f)
@@ -15,6 +11,11 @@ $1 != ""{
 	else
 		print "2.5 0 0 0 " f ".pdf" >>dict
 	printf "%s\n.Bp\n%s\n\n%s\n", h, $1, $2 >>last
+	close(last)
+}
+$1 == "" && NF > 1{
+	sub("^	", "")
+	printf "\n%s\n", $0 >>last
 	close(last)
 }
 ' $*
