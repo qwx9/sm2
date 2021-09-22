@@ -1,5 +1,5 @@
 #!/bin/rc -e
-p=$user/p/sm2/ger
+p=/usr/$user/p/sm2/ger
 cd $p
 shl <db | sed 20q >>db0
 grep -v `"{awk '{print $5}' db0 | tr '
