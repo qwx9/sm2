@@ -1,5 +1,5 @@
 Geschenk
 .Bp
-Geschenk(n)
+Geschenk(n),e
 
-a present
+present, gift

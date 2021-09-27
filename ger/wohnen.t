@@ -2,4 +2,6 @@ wohnen
 .Bp
 wohnen
 
-to live somewhere
+to live/inhabit
+
+wohnt, wohnte, gewohnt

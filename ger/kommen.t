@@ -2,6 +2,6 @@ kommen
 .Bp
 kommen
 
-to come
+come
 
-P gekommen
+kommt, kam, ist gekommen

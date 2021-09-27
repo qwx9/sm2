@@ -2,4 +2,4 @@ richtig
 .Bp
 richtig
 
-right/true
+right/true, correct

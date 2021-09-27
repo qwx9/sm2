@@ -1,5 +1,5 @@
 Segen
 .Bp
-Segen(m)
+Segen(m),
 
-a blessing (relig)
+(relig.) a blessing

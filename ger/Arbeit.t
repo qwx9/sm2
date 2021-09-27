@@ -1,5 +1,5 @@
 Arbeit
 .Bp
-Arbeit(f)
+Arbeit(f),/
 
-a work
+work, job

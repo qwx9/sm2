@@ -2,7 +2,7 @@ abenteuerlich
 .Bp
 abenteuerlich
 
+bizarre;
 adventurous,
 rash,
-quixotic,
-bizarre
+quixotic (befitting don quixote)

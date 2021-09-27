@@ -1,5 +1,5 @@
 Geschmeiß
 .Bp
-Geschmeiß(n)
+Geschmeiß(n),/
 
 the scum/shit/vermin

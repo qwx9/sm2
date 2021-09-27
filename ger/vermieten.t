@@ -2,8 +2,5 @@ vermieten
 .Bp
 vermieten
 
-to charter
+to charter, to hire/rent out;
 to let sth on a lease
-to hire out
-to rent out
-

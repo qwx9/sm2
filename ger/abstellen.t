@@ -2,4 +2,4 @@ abstellen
 .Bp
 abstellen
 
-to suppres; to remedy
+to suppress; to remedy

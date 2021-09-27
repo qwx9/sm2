@@ -4,4 +4,4 @@ laden
 
 to load (into a vehicle)
 
-lädt,lud,geladen
+lädt, lud, geladen

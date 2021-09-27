@@ -1,5 +1,5 @@
 Stirn
 .Bp
-Stirn(f)
+Stirn(f),en
 
 a forehead

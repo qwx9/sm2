@@ -4,6 +4,8 @@ Kunst(f),"e
 
 an art
 
-	→ die schönen Künste	the fine arts
+→ die schönen Künste:
+	the fine arts
 
-	→ die bildende Künste	the visual/plastic arts
+→ die bildende Künste:
+	the visual/plastic arts

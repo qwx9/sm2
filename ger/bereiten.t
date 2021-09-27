@@ -2,4 +2,5 @@ bereiten
 .Bp
 bereiten
 
-to give/prepare/afford
+to cause/give (grief, pain, etc.);
+to prepare sth (meal, medicine, etc.)

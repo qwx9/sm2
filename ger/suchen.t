@@ -4,8 +4,4 @@ suchen
 
 to search/look for sth
 
-p sucht
-
-P suchte
-
-π hat gesucht
+sucht, suchte, hat gesucht

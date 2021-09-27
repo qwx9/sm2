@@ -1,5 +1,5 @@
 Büroarbeit
 .Bp
-Büroarbeit(f)
+Büroarbeit(f),en
 
 a paperwork

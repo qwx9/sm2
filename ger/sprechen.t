@@ -4,4 +4,4 @@ sprechen
 
 to speak
 
-P gesprochen
+spricht, sprach, gesprochen
