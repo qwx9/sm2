@@ -2,4 +2,6 @@ erklären
 .Bp
 erklären
 
-to explain sth= etw. erklären
+to explain sth
+
+= etw. erklären

@@ -3,3 +3,5 @@ lieben
 lieben
 
 to love
+
+liebt, liebte, geliebt

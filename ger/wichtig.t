@@ -3,3 +3,5 @@ wichtig
 wichtig
 
 important
+
+wichtiger, am wichtigsten

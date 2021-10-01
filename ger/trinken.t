@@ -2,4 +2,6 @@ trinken
 .Bp
 trinken
 
-to drinkP getrunken
+to drink
+
+trinkt, trank, hat getrunken

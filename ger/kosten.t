@@ -3,3 +3,5 @@ kosten
 kosten
 
 to cost
+
+kostet, kostete, gekostet

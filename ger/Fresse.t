@@ -1,6 +1,6 @@
-fresse
+Fresse
 .Bp
-fresse (f)
+Fresse(f),n
 
 (fam) mug, cakehole, kisser
 

@@ -1,5 +1,5 @@
 Uhr
 .Bp
-Uhr(f)
+Uhr(f),en
 
 a clock

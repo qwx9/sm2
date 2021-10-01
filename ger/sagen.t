@@ -3,3 +3,5 @@ sagen
 sagen
 
 to say
+
+sagt, sagte, gesagt

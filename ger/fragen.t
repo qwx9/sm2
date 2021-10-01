@@ -3,3 +3,5 @@ fragen
 fragen
 
 to ask
+
+fragt, fragte, gefragt

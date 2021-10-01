@@ -1,5 +1,5 @@
 Abschnitt
 .Bp
-Abschnitt(m)
+Abschnitt(m),e
 
 a sector (of platform)

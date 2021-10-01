@@ -4,4 +4,6 @@ halten
 
 to keep/stop/hold
 
-p du hältst, er hält
+hält, hieltst, gehalten
+
+ich halte, du hältst

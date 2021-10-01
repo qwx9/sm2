@@ -1,5 +1,5 @@
 Sprachschnitzer
 .Bp
-Sprachschnitzer(m)
+Sprachschnitzer(m),
 
 a solecism

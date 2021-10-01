@@ -1,7 +1,10 @@
 Böse
 .Bp
-Böse(n)
+Böse(n),n
 
-an evil (!= good)
+(?)
 
-	→ Gut und Böse	good and evil
+evil
+
+→ Gut und Böse:
+	good and evil

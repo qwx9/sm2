@@ -3,3 +3,5 @@ kennen
 kennen
 
 to know (be acquainted with)
+
+kennt, kannte, gekannt

@@ -2,4 +2,8 @@ entkommen
 .Bp
 entkommen
 
-to escape (from sth)= +datP entkommen
+to escape (from sth)
+
+= +dat
+
+P entkommen

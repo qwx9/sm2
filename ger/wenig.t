@@ -2,4 +2,6 @@ wenig
 .Bp
 wenig
 
-little/few
+a little, a few
+
+weinger, am wenigsten

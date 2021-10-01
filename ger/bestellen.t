@@ -2,6 +2,6 @@ bestellen
 .Bp
 bestellen
 
-to summon/order/book/commission smth
+to order sth
 
-= etw. bestellen
+bestellt, bestellte, bestellt

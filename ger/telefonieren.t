@@ -4,4 +4,4 @@ telefonieren
 
 to telephone
 
-P telefoniert
+telefoniert, telefonierte, telefoniert

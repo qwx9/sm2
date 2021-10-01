@@ -4,4 +4,6 @@ nehmen
 
 to take
 
-P genommen
+nehme, nimmst, nimmt, nehmen, nehmt, nehmen
+
+nimmt, nahm, genommen

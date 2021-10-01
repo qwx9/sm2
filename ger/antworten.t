@@ -4,4 +4,4 @@ antworten
 
 to answer
 
-P [bg]eantwortet
+antwortet, antwortete, [bg]eantwortet

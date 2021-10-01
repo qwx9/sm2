@@ -4,4 +4,4 @@ schreiben
 
 to write
 
-P geschrieben
+schreibt, schrieb, geschrieben

@@ -1,5 +1,5 @@
 Handy
 .Bp
-Handy(n)
+Handy(n),s
 
-a mobile phone
+cell phone

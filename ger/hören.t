@@ -4,4 +4,4 @@ hören
 
 to hear
 
-P gehört
+hört, hörte, gehört

@@ -4,4 +4,6 @@ essen
 
 to eat
 
-P gegessen
+esse, isst, isst, essen, esst, essen
+
+isst, aß, gegessen

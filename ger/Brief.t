@@ -1,5 +1,5 @@
 Brief
 .Bp
-Brief(m)
+Brief(m),e
 
 a letter
