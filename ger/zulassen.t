@@ -2,4 +2,6 @@ zulassen
 .Bp
 zulassen
 
-to let/admit
+to approve/admit/concede/let
+
+(arch.) to suffer sb/sth

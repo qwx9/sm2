@@ -1,5 +1,5 @@
-Fündburo
+Fundbüro
 .Bp
-Fündburo(n),s
+Fundbüro(n),s
 
 lost and found

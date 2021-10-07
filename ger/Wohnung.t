@@ -1,7 +1,7 @@
 Wohnung
 .Bp
-Wohnung(f)
+Wohnung(f),en
 
 a flat
 
-	→ Dreizimmerwohnung
+→ Dreizimmerwohnung

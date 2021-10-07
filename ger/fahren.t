@@ -4,4 +4,4 @@ fahren
 
 to head (for)/travel
 
-p du fährst, er fährt
+fährt, fuhr, gefahren

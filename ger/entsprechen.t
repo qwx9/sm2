@@ -2,4 +2,4 @@ entsprechen
 .Bp
 entsprechen
 
-to meet, to comply/conform, to correlate/correspond
+to comply/conform/meet, to correlate/correspond

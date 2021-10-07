@@ -3,3 +3,5 @@ spielen
 spielen
 
 to play
+
+spielt, spielte, gespielt

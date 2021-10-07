@@ -2,4 +2,4 @@ Landschaft
 .Bp
 Landschaft(f),en
 
-a countryside/landscape,scene
+a countryside/landscape, scene

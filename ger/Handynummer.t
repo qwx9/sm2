@@ -1,5 +1,5 @@
-Handynummber
+Handynummer
 .Bp
-Handynummber(f),n
+Handynummer(f),n
 
 cell phone number

@@ -1,5 +1,5 @@
 Ausstellung
 .Bp
-Ausstellung(f)
+Ausstellung(f),en
 
 an expo

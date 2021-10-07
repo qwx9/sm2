@@ -2,4 +2,6 @@ zufällig
 .Bp
 zufällig
 
-by chance
+(adj) random, accidental, fortuitous
+
+(adv) by chance

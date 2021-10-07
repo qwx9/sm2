@@ -3,3 +3,5 @@ teuer
 teuer
 
 expensive
+
+teuer, teurer, am teuersten

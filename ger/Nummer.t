@@ -1,5 +1,5 @@
-Nummber
+Nummer
 .Bp
-Nummber(f),n
+Nummer(f),n
 
 number

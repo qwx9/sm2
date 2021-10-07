@@ -1,5 +1,5 @@
 Kasse
 .Bp
-Kasse(f)
+Kasse(f),n
 
 a payment desk

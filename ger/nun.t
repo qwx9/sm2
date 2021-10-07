@@ -1,6 +1,6 @@
 nun
 .Bp
-nun, nun?
+nun
 
 now/at the moment
 

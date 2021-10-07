@@ -1,5 +1,0 @@
-geringste
-.Bp
-geringste
-
-least

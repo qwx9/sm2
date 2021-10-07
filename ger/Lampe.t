@@ -1,5 +1,5 @@
 Lampe
 .Bp
-Lampe(f),en
+Lampe(f),n
 
 lamp

@@ -1,6 +1,6 @@
-sich.erkundigen
+sich erkundigen
 .Bp
-sich.erkundigen
+sich erkundigen
 
 to enquire/ask after/ask about
 
