@@ -1,5 +1,5 @@
 Erfolg
 .Bp
-Erfolg(m)
+Erfolg(m),e
 
-a success
+success, achievement

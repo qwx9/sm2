@@ -1,5 +1,5 @@
 Tram
 .Bp
-Tram(n)
+Tram(n),s
 
 a tram

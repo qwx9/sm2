@@ -1,5 +1,5 @@
 Bericht
 .Bp
-Bericht(m)
+Bericht(m),e
 
 a report/dispatch/account

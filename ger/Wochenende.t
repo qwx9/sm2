@@ -1,5 +1,5 @@
 Wochenende
 .Bp
-Wochenende(f)
+Wochenende(n),n
 
 a weekend

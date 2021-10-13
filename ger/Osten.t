@@ -1,5 +1,5 @@
 Osten
 .Bp
-Osten(m)
+Osten(m),/
 
-the east
+east

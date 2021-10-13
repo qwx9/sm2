@@ -2,4 +2,6 @@ gehen
 .Bp
 gehen
 
-to goP gegangen
+to go
+
+geht, ging, (sein) gegangen

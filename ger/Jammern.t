@@ -1,5 +1,5 @@
 Jammern
 .Bp
-Jammern(n)
+Jammern(n),/
 
 a wail (of jammering/complaining)

@@ -1,5 +1,5 @@
 Kabel
 .Bp
-Kabel(n)
+Kabel(n),
 
 a cable

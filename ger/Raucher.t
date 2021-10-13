@@ -1,5 +1,5 @@
 Raucher
 .Bp
-Raucher(m)
+Raucher[in],en/nen
 
 a smoker

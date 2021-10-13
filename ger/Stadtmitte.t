@@ -1,5 +1,5 @@
 Stadtmitte
 .Bp
-Stadtmitte(f)
+Stadtmitte(f),n
 
 a town center

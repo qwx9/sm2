@@ -1,5 +1,5 @@
 Nichts
 .Bp
-Nichts(n)
+Nichts(n),/
 
 a nothing

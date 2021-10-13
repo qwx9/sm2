@@ -2,4 +2,4 @@ Freihandel
 .Bp
 Freihandel(m),/
 
-a free trade
+free trade

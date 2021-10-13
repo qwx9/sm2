@@ -4,9 +4,7 @@ mögen
 
 to like
 
-p ich mag, du magst, er mag
-
-π er möchte
+mag, mochte, gemocht
 
 → ich möchte ein Bier	I would like a beer
 

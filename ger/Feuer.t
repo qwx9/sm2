@@ -1,5 +1,5 @@
 Feuer
 .Bp
-Feuer(n)
+Feuer(n),/
 
 a fire

@@ -4,4 +4,4 @@ bleiben
 
 to remain/stay/keep
 
-P geblieben
+bliebt, blieb, geblieben

@@ -3,3 +3,5 @@ schnell
 schnell
 
 fast
+
+schnell, schneller, am schnellsten

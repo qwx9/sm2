@@ -4,4 +4,4 @@ wiederholen
 
 to repeat
 
-P wiederholt
+wiederholt, widerholte, wiederholt

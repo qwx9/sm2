@@ -1,5 +1,5 @@
 Reich
 .Bp
-Reich(n)
+Reich(n),e
 
 an empire

@@ -1,5 +1,5 @@
 Elefant
 .Bp
-Elefant(m)
+Elefant(m),en
 
 an elephant

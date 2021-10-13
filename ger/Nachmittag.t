@@ -1,5 +1,5 @@
 Nachmittag
 .Bp
-Nachmittag
+Nachmittag(m),e
 
 an afternoon

@@ -3,3 +3,5 @@ singen
 singen
 
 to sing
+
+singt, sang, gesungen

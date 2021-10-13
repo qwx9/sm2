@@ -1,7 +1,7 @@
 Mal
 .Bp
-Mal(n)
+Mal(n),?
 
 a time/occurance
 
-	→ jedesmal, dieses Mal, das erste Mal
+→ jedesmal, dieses Mal, das erste Mal

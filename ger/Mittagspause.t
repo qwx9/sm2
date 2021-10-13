@@ -1,5 +1,5 @@
 Mittagspause
 .Bp
-Mittagspause(f)
+Mittagspause(f),n
 
 a lunch break

@@ -3,3 +3,5 @@ schlecht
 schlecht
 
 bad
+
+schlecht, schlechter, am schlechtesten

@@ -1,5 +1,5 @@
 Quälerei
 .Bp
-Quälerei(f)
+Quälerei(f),en
 
 a torture

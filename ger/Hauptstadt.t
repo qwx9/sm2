@@ -1,6 +1,6 @@
 Hauptstadt
 .Bp
-Hauptstadt(f),
+Hauptstadt(f),"e
 
 a capital city
 

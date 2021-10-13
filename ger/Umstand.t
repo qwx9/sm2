@@ -2,4 +2,4 @@ Umstand
 .Bp
 Umstand(m),"e
 
-circumstance, situation
+circumstance, condition, context; trouble, bother

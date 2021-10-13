@@ -1,5 +1,5 @@
 Geburt
 .Bp
-Geburt(f)
+Geburt(f),en
 
 a birth

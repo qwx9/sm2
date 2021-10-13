@@ -1,5 +1,5 @@
 Himmel
 .Bp
-Himmel(m)
+Himmel(m),/
 
-a sky/heaven(relig.)
+(relig.) a sky/heaven

@@ -1,5 +1,5 @@
 Übung
 .Bp
-Übung(f)
+Übung(f),en
 
 an exercise

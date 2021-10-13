@@ -1,5 +1,5 @@
 Erde
 .Bp
-Erde(f),en
+Erde(f),n
 
 an earth

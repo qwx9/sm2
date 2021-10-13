@@ -1,5 +1,0 @@
-Frankreich
-.Bp
-Frankreich
-
-France

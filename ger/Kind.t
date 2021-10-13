@@ -1,5 +1,5 @@
 Kind
 .Bp
-Kind(n)
+Kind(n),er
 
 a child

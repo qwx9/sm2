@@ -1,7 +1,7 @@
 Ordnung
 .Bp
-Ordnung(f)
+Ordnung(f),en
 
 an order (spatial)
 
-	→ in Ordnung	all right
+→ in Ordnung	all right

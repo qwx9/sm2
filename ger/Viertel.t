@@ -1,6 +1,6 @@
 Viertel
 .Bp
-Viertel(n)
+Viertel(n),
 
 a quarter
 

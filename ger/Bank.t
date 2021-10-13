@@ -1,5 +1,5 @@
 Bank
 .Bp
-Bank(f),n
+Bank(f),en
 
 bank

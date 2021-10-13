@@ -1,5 +1,5 @@
 Vorsicht
 .Bp
-Vorsicht(f)
+Vorsicht(f),/
 
-an attention
+prudence, caution, attention, wariness

@@ -1,5 +1,5 @@
 Klischee
 .Bp
-Klischee(n)
+Klischee(n),n
 
 a cliche

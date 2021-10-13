@@ -4,4 +4,4 @@ liegen
 
 to lie/be somewhere
 
-P gelegen
+liegt, lag, hat gelegen

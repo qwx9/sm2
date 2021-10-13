@@ -1,6 +1,6 @@
 Praxis
 .Bp
-Praxis(f)
+Praxis(f),Praxen
 
 a practice/experience
 

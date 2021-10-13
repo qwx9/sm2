@@ -1,5 +1,5 @@
 Fahrrad
 .Bp
-Fahrrad(n)
+Fahrrad(n),"er
 
 a bicycle

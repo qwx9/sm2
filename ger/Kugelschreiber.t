@@ -1,5 +1,5 @@
 Kugelschreiber
 .Bp
-Kugelschreiber(m)
+Kugelschreiber(m),
 
 a ballpoint pen

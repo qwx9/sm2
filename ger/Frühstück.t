@@ -1,5 +1,5 @@
 Frühstück
 .Bp
-Frühstück(n)
+Frühstück(n),e
 
 a breakfast

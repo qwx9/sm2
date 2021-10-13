@@ -1,5 +1,7 @@
 Verwandte
 .Bp
-Verwandte
+Verwandte(f),r
 
-a relative
+singular: a female relative
+
+plural: relatives, kin

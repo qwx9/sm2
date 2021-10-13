@@ -1,5 +1,5 @@
 Nachfolger
 .Bp
-Nachfolger
+Nachfolger[in],-/en
 
 a follower

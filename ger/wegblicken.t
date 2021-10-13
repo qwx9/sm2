@@ -2,4 +2,6 @@ wegblicken
 .Bp
 wegblicken
 
-to look awayP geblickt
+to look away
+
+blickt weg, blickte weg, weggeblickt

@@ -1,5 +1,5 @@
 Öl
 .Bp
-Öl(n)
+Öl(n),/
 
 an oil
