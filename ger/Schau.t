@@ -1,7 +1,7 @@
 Schau
 .Bp
-Schau(f)
+Schau(f),en
 
 a show
 
-	→ Schau-tag
+→ Schau-tag
