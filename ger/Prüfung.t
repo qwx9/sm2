@@ -4,4 +4,4 @@ Prüfung(f),en
 
 an exam
 
-	→ mündliche Prüfung	oral exam
+→ mündliche Prüfung	oral exam

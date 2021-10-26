@@ -1,5 +1,5 @@
 Nasenloch
 .Bp
-Nasenloch(n),"r
+Nasenloch(n),"er
 
 a nostril

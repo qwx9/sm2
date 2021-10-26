@@ -3,3 +3,5 @@ merkwürdig
 merkwürdig
 
 peculiar, odd, curious
+
+merkwürdig, merkwürdiger, am merkwürdigsten

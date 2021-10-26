@@ -3,3 +3,5 @@ stark
 stark
 
 strong/powerful/intense
+
+stark, starker, starkest

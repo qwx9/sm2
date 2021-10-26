@@ -2,4 +2,4 @@ leiden
 .Bp
 leiden
 
-suffer (from: a disease, etc.), to bear
+to suffer (from a disease, etc.), to bear

@@ -2,4 +2,6 @@ vorschreiben
 .Bp
 vorschreiben
 
-to prescribeP vorgeschreiben
+to prescribe
+
+P vorgeschreiben

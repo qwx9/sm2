@@ -1,5 +1,5 @@
 Fachberatung
 .Bp
-Fachberatung(f)
+Fachberatung(f),en
 
 an expert's advice

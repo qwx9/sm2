@@ -1,5 +1,5 @@
-o graus
+O, Graus
 .Bp
-o graus
+O, Graus
 
 (hum.) oh¸ the horror!

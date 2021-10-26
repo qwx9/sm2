@@ -1,5 +1,5 @@
 Unterricht
 .Bp
-Unterricht(m),+ungen
+Unterricht(m),ungen
 
 a school/teaching/instruction/class

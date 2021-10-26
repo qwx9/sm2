@@ -3,3 +3,5 @@ traurig
 traurig
 
 sad/sorry
+
+trauriger, am traurigsten

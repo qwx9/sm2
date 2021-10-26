@@ -4,4 +4,6 @@ spät
 
 late
 
-	→ zu spät kommen: to be too late
+spät, später, am spätestens
+
+→ zu spät kommen: to be too late

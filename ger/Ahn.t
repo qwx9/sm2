@@ -2,4 +2,4 @@ Ahn
 .Bp
 Ahn(m),e
 
-an ancestor/antecedent(formal)
+an ancestor; (formal) antecedent

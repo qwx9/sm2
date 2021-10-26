@@ -2,4 +2,4 @@ weisen
 .Bp
 weisen
 
-to point (something (out))
+to indicate, show sb sth, point out sth

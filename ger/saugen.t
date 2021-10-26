@@ -2,6 +2,8 @@ saugen
 .Bp
 saugen
 
-to suckle
+to suck, draw; to leech; to vacuum; to suckle (udder/breast)
 
-→ Blut saugenleech
+; substantive: suction
+
+→ Blut saugen:	leech

@@ -2,4 +2,8 @@ rächen
 .Bp
 rächen
 
-to avenge sb/sthP gerächt
+to avenge sb/sth
+
+→ Rache
+
+P gerächt

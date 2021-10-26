@@ -1,6 +1,6 @@
 Basiswissen
 .Bp
-Basiswissen(n)
+Basiswissen(n),/
 
 the basics
 

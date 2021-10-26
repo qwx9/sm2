@@ -2,4 +2,6 @@ selten
 .Bp
 selten
 
-infrequently
+(adv) rarely, seldom, infrequently, unusually
+
+(adj) rare, scarce, infrequent, unusual

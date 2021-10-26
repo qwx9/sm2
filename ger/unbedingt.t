@@ -3,3 +3,5 @@ unbedingt
 unbedingt
 
 absolutely
+
+→ bedingt: conditional, contingent; see bedingen

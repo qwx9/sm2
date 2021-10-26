@@ -2,4 +2,4 @@ scheiden
 .Bp
 scheiden
 
-to divorce
+to divorce, divide, separate, depart

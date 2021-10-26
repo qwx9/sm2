@@ -1,5 +1,5 @@
 Deutsch
 .Bp
-Deutsch(n)
+Deutsch(n),/
 
 german language (nur Singular)

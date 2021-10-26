@@ -1,5 +1,5 @@
 Straßenbahn
 .Bp
-Straßenbahn(f)
+Straßenbahn(f),en
 
 a tram

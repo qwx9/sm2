@@ -3,3 +3,5 @@ zahlreich
 zahlreich
 
 frequent/numerous
+
+; zahl, number // reich, rich

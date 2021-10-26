@@ -2,4 +2,4 @@ hinzufügen
 .Bp
 hinzufügen
 
-to add
+to add, append, affix

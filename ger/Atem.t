@@ -1,7 +1,5 @@
 Atem
 .Bp
-Atem(m),+züge
+Atem(m),/
 
-a breath
-
-	→ außen Atem sein	to be out of breath
+breath

@@ -2,4 +2,4 @@ obwohl
 .Bp
 obwohl
 
-though/although
+(conj) despite, although, whereas

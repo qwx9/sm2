@@ -1,5 +1,5 @@
 Schande
 .Bp
-Schande(f)
+Schande(f),n
 
-a shame/crime/disgrace
+shame, disgrace, infamy, dishonour

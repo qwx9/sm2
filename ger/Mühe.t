@@ -2,4 +2,4 @@ Mühe
 .Bp
 Mühe(f),n
 
-a trouble
+toil, effort, bother, labor; difficulty; (coll) hassle

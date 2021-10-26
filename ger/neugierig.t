@@ -3,3 +3,5 @@ neugierig
 neugierig
 
 curious
+
+neugierig, neugieriger, am neugierigsten

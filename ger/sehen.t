@@ -4,4 +4,6 @@ sehen
 
 to see
 
-P gesehen
+sehe, siehst, sieht, sehen, seht, sehen
+
+sieht, sah, gesehen

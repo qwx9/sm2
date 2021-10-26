@@ -2,4 +2,6 @@ bekennen
 .Bp
 bekennen
 
-to confess to sthP bekannt/bekannte
+to confess to sth, admit, acknowledge
+
+bekennt, bekannte, bekannt

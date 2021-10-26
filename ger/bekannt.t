@@ -2,7 +2,9 @@ bekannt
 .Bp
 bekannt
 
-known
+well-known, famous; familiar
+
+; bekennen: bekennt präsens, bekannt perfekt
 
 → sehr bekannt sein:
 	to be very well known

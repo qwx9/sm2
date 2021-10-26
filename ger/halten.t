@@ -4,6 +4,6 @@ halten
 
 to keep/stop/hold
 
-hält, hieltst, gehalten
+halte, hältst, hält, halten, haltet, halten
 
-ich halte, du hältst
+hält, hieltst, gehalten

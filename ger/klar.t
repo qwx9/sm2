@@ -2,4 +2,6 @@ klar
 .Bp
 klar
 
-clear
+(adj) clear, lucid, distinct; explicit, plain, obvious
+
+klar, klarer, am klarsten

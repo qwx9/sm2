@@ -2,4 +2,4 @@ fertig
 .Bp
 fertig
 
-(coll) beat
+ready, finished; prepared; (coll.) beat, wasted, extremely tired

@@ -1,4 +1,4 @@
-Kunder
+Kunde
 .Bp
 Kunde(m),n
 

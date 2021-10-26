@@ -1,5 +1,5 @@
 Segnung
 .Bp
-Segnung(f)
+Segnung(f),en
 
-a blessing (relig)
+(relig.) blessing
