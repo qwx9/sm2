@@ -19,3 +19,4 @@ $1 == "" && NF > 1{
 	close(last)
 }
 ' $*
+echo remember to add to other collections!

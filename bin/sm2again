@@ -1,3 +1,3 @@
 #!/bin/rc -e
-'s&m2' db0 >db1
+sr3 db0 >db1
 cp db1 db0

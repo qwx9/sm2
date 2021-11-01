@@ -1,11 +1,13 @@
 #!/bin/rc -e
 p=$home/p/sm2/ger
 cd $p || exit
-awk -v 'nword='20 '
+awk -v 'nword='15 '
 {
 	d[NR] = $0
 }
 END{
+	if(length(d) == 0)
+		exit
 	srand()
 	for(i=1; i<=nword; i++){
 		do
@@ -20,5 +22,5 @@ END{
 		print d[i]
 }' db >/tmp/sm2.$pid
 mv /tmp/sm2.$pid db
-'s&m2' db0 >db1
-cp db1 db0
+sr3 db0 >db1
+#mv db1 db0
