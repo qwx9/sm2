@@ -1,5 +1,5 @@
 Nektarin
 .Bp
-Nektarin(f)
+Nektarin(f),en
 
 a nectarine

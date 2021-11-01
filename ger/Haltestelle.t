@@ -1,5 +1,5 @@
 Haltestelle
 .Bp
-Haltestelle(f)
+Haltestelle(f),n
 
-(trans) a stop
+(trans) a stop; station

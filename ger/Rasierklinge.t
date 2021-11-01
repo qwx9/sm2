@@ -1,5 +1,5 @@
 Rasierklinge
 .Bp
-Rasierklinge(f)
+Rasierklinge(f),n
 
 a razorblade

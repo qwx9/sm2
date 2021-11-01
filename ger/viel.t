@@ -2,7 +2,9 @@ viel
 .Bp
 viel
 
-much
+much, lots
 
 → zu viel:
 	too much
+
+viel, mehr, am meisten

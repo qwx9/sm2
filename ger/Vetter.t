@@ -1,5 +1,5 @@
 Vetter
 .Bp
-Vetter(m)
+Vetter(m),n
 
 a male cousin

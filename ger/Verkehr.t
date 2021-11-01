@@ -1,5 +1,5 @@
 Verkehr
 .Bp
-Verkehr(m)
+Verkehr(m),e
 
 a transport/traffic

@@ -1,5 +1,5 @@
 Fernverkehr
 .Bp
-Fernverkehr(m)
+Fernverkehr(m),e
 
 a long distance traffic

@@ -1,5 +1,5 @@
 Haufen
 .Bp
-Haufen(m)
+Haufen(m),
 
-a pile/pack
+a pile, pack, horde

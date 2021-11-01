@@ -8,9 +8,10 @@ all:V: ${ALL:%.t=%.pdf}
 	chmod +t $target
 
 %.ps:D: %.ms
-	lp -dstdout < $prereq > $target
+	lp -dstdout -L < $prereq > $target
 	chmod +t $target
 
+# file:/sys/src/cmd/gs/doc/Use.htm
 %.pdf:D: %.ps
 	ps2pdf < $prereq > $target
 	chmod +t $target

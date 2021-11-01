@@ -1,5 +1,5 @@
 Gemächt
 .Bp
-Gemächt(n)
+Gemächt(n),e
 
-the male genitals/lunchbox(humor)
+male genitals, manhood; (hum.) lunchbox

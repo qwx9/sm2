@@ -1,0 +1,5 @@
+vertrauenswürdig
+.Bp
+vertrauenswürdig
+
+trustworthy

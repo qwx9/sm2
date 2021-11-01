@@ -2,4 +2,6 @@ abmühen
 .Bp
 abmühen
 
-to struggle with/toil overP abgemüht= sich abmühen
+to struggle with/toil over
+
+müht, mühtest, abgemüht

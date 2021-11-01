@@ -1,5 +1,5 @@
 Bauer
 .Bp
-Bauer(m)
+Bauer[in]
 
 a farmer

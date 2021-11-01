@@ -1,5 +1,5 @@
-Erreichte
+Erreichen
 .Bp
-Erreichte(n)
+Erreichen(n),/
 
-a result
+achievement, attainment (of target, peace etc)

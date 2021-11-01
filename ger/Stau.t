@@ -1,5 +1,5 @@
 Stau
 .Bp
-Stau(m)
+Stau(m),s
 
-a pileup/traffic jam/congestion
+congesion, jam, pileup; accumulation

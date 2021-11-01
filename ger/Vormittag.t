@@ -1,5 +1,5 @@
 Vormittag
 .Bp
-Vormittag(m)
+Vormittag(m),e
 
 a (mid)morning

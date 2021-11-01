@@ -1,5 +1,5 @@
-schachtel
+Schachtel
 .Bp
-schachtel (f)
+Schachtel(f),n
 
 box, carton, packet

@@ -2,4 +2,5 @@ mehrere
 .Bp
 mehrere
 
-several
+several, multiple
+

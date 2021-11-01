@@ -1,5 +1,5 @@
 Zeitung
 .Bp
-Zeitung(f)
+Zeitung(f),en
 
-a newspaper
+newspaper

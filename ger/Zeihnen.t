@@ -1,5 +1,5 @@
-Zeihnen
+Zeichnen
 .Bp
-Zeihnen(n)
+Zeichnen(n),
 
 a drawing
