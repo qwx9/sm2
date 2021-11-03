@@ -1,5 +1,6 @@
 Spaziergang
 .Bp
-Spaziergang(m)
+Spaziergang(m),"e
 
-a walk
+walk, stroll
+

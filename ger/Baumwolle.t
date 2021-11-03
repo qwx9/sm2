@@ -1,5 +1,5 @@
 Baumwolle
 .Bp
-Baumwolle(f)
+Baumwolle(f),n
 
-a cotton
+cotton

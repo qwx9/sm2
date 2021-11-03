@@ -1,5 +1,5 @@
 Kaufhaus
 .Bp
-Kaufhaus(n)
+Kaufhaus(n),"er
 
 a department store

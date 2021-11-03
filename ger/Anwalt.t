@@ -1,5 +1,5 @@
 Anwalt
 .Bp
-Anwalt(m)
+Anwalt(m),"e
 
-a solicitor/lawyer
+attorney, lawyer/solicitor

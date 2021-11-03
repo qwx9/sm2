@@ -1,7 +1,5 @@
 Bahnhof
 .Bp
-Bahnhof(m)
+Bahnhof(m),"e
 
-a station
-
-	= transportation
+station (train, bus, etc.)

@@ -1,5 +1,5 @@
 Übel
 .Bp
-Übel(n)
+Übel(n),
 
 an evil/bane/curse

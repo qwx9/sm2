@@ -1,5 +1,0 @@
-worterbüch
-.Bp
-worterbüch
-
-

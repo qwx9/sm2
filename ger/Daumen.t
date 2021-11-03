@@ -1,5 +1,5 @@
 Daumen
 .Bp
-Daumen(m)
+Daumen(m),
 
 a thumb

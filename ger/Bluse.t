@@ -1,5 +1,5 @@
 Bluse
 .Bp
-Bluse(f)
+Bluse(f),n
 
 a blouse

@@ -1,5 +1,5 @@
 Rathaus
 .Bp
-Rathaus(n)
+Rathaus(n),"er
 
 a town hall

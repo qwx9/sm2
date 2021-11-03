@@ -1,5 +1,5 @@
 Knöchel
 .Bp
-Knöchel(m)
+Knöchel(m),
 
-a knuckle
+knuckle [Fingerknöchel]; ankle [Fußknöchel]

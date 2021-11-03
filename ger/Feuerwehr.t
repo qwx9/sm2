@@ -1,5 +1,5 @@
 Feuerwehr
 .Bp
-Feuerwehr(f)
+Feuerwehr(f),en
 
-a fire brigade
+fire brigade

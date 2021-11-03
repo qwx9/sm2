@@ -1,5 +1,5 @@
 Durchsage
 .Bp
-Durchsage(f)
+Durchsage(f),n
 
 a message/announcement

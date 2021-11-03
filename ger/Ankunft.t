@@ -1,5 +1,5 @@
 Ankunft
 .Bp
-Ankunft(f)
+Ankunft(f),"e
 
 an arrival

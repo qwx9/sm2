@@ -1,5 +1,5 @@
 Feierabend
 .Bp
-Feierabend(m)
+Feierabend(m),e
 
 the end of work/closing time

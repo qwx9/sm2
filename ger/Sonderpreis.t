@@ -1,5 +1,5 @@
 Sonderpreis
 .Bp
-Sonderpreis(m)
+Sonderpreis(m),e
 
 a special price
